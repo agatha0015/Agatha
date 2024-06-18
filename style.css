@@ -1,3 +1,12 @@
+#banner{
+  width: 100%
+}
+
+.principal{
+  background-color: #cccccc;
+  padding: 30px;
+}
+
 .titulo-principal{
   padding-left: 20px;
 }
@@ -6,15 +15,10 @@
   text-align: center;
 }
 
-.principal{
-  background-color: #cccccc;
-  padding: 30px;
-}
-
 p{
   text-align: center;
 }
-o
+
 em strong{
   color: #grey
 }
@@ -30,7 +34,8 @@ em strong{
 .beneficios{
   padding: 20px;
   background-color: #FFFFFF;
-}
+}￼
+
 
 ul{
   display: inline-block;
