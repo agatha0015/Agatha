@@ -1,9 +1,9 @@
 #banner{
-  width: 100%
+  width: 100%;
 }
 
 .principal{
-  background-color: #cccccc;
+  background-color: #CCCCCC;
   padding: 30px;
 }
 
@@ -20,22 +20,17 @@ p{
 }
 
 em strong{
-  color: #grey
+  color: red;
 }
 
 #missao{
   font-size: 28px;
 }
 
-#banner{
-  width: 100%
-}
-
 .beneficios{
   padding: 20px;
   background-color: #FFFFFF;
-}￼
-
+}
 
 ul{
   display: inline-block;
@@ -44,5 +39,10 @@ ul{
   margin-right: 15%;
 }
 
+.item{
+  font-style: italic;
+}
 
-
+.imagem-beneficios{
+  width: 50%;
+}
